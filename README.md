@@ -10,8 +10,8 @@ To run the project, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/AragonerUA/aichatinference.git
-   cd aichatinference
+   git clone https://github.com/AragonerUA/AIChatInference.git
+   cd AIChatInference
    ```
 
 2. **Add an OpenAI API Key**:
